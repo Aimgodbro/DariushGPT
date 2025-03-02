@@ -1,6 +1,4 @@
-Here's an enhanced version of the GitHub `README.md` with improved structure, clarity, and additional details:
 
----
 
 # GodModeDariush 🌌  
 **The Ultimate Multilingual Transformer for Persian, English, and Arabic**
