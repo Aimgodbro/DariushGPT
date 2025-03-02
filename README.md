@@ -195,7 +195,7 @@ If you use GodModeDariush in research, cite:
 
 - [Discussion Forum](https://github.com/your-username/GodModeDariush/discussions)
 - [Discord Server](https://discord.gg/your-invite-link)
-- Email: [hosein@dariush.ai](mailto:hosein@dariush.ai)
+- Email: kinhofcod4242@gmail.com
 
 ---
 
