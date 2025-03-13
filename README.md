@@ -15,14 +15,14 @@
 ## Table of Contents
 - [Features](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#features-)
 - [Installation](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#installation-%EF%B8%8F)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
-- [Architecture](#architecture)
-- [Performance](#performance)
-- [License](#license)
-- [Contributing](#contributing)
-- [Citation](#citation)
-- [Community](#community)
+- [Quick Start](README.md)
+- [Configuration](README.md)
+- [Architecture](README.md)
+- [Performance](README.md)
+- [License](README.md)
+- [Contributing](README.md)
+- [Citation](README.md)
+- [Community](README.md)
 
 ---
 
