@@ -19,8 +19,8 @@
 - [Configuration](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#configuration-%EF%B8%8F)
 - [Architecture](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#architecture-%EF%B8%8F)
 - [Performance](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#performance-)
-- [License](README.md)
-- [Contributing](README.md)
+- [License](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#license-)
+- [Contributing]()
 - [Citation](README.md)
 - [Community](README.md)
 
