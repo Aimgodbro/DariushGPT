@@ -13,7 +13,7 @@
 ---
 
 ## Table of Contents
-- [Features](#Features)
+- [Features](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#features-)
 - [Installation](#Installation)
 - [Quick Start](#quick-start)
 - [Configuration](#configuration)
