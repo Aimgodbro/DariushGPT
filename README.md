@@ -13,8 +13,8 @@
 ---
 
 ## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
+- [Features](#Features)
+- [Installation](#Installation)
 - [Quick Start](#quick-start)
 - [Configuration](#configuration)
 - [Architecture](#architecture)
