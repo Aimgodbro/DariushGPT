@@ -22,7 +22,7 @@
 - [License](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#license-)
 - [Contributing](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#contributing-)
 - [Citation](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#citation-)
-- [Community](README.md)
+- [Community](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#community-)
 
 ---
 
