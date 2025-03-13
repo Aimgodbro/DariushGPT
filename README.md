@@ -21,7 +21,7 @@
 - [Performance](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#performance-)
 - [License](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#license-)
 - [Contributing](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#contributing-)
-- [Citation](README.md)
+- [Citation](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#citation-)
 - [Community](README.md)
 
 ---
