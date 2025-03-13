@@ -20,7 +20,7 @@
 - [Architecture](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#architecture-%EF%B8%8F)
 - [Performance](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#performance-)
 - [License](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#license-)
-- [Contributing]()
+- [Contributing](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#contributing-)
 - [Citation](README.md)
 - [Community](README.md)
 
