@@ -18,7 +18,7 @@
 - [Quick Start](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#quick-start-)
 - [Configuration](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#configuration-%EF%B8%8F)
 - [Architecture](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#architecture-%EF%B8%8F)
-- [Performance](README.md)
+- [Performance](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#performance-)
 - [License](README.md)
 - [Contributing](README.md)
 - [Citation](README.md)
