@@ -14,7 +14,7 @@
 
 ## Table of Contents
 - [Features](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#features-)
-- [Installation](#Installation)
+- [Installation](https://github.com/Aimgodbro/DariushGPT/blob/main/README.md#installation-%EF%B8%8F)
 - [Quick Start](#quick-start)
 - [Configuration](#configuration)
 - [Architecture](#architecture)
